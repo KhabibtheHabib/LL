@@ -145,7 +145,7 @@ export const useAuthStore = create<AuthState>((set) => ({
         email: 'demo@example.com',
         role: 'student',
         fullName: 'Demo User',
-        studentId: '12345678',
+        studentId: '123456',
         isDemo: true
       }
     });
